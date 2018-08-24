@@ -79,6 +79,10 @@ p {
   display: block;
 }
 
+.indent {
+  text-indent: 5px;
+}
+
 .options {
   display: flex;
   align-items: center;
