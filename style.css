@@ -61,6 +61,12 @@ header {
   object: fit;
 }
 
+.footer-center {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
 h2 {
   font-size: 1.4em;
   padding-left: 10px;
