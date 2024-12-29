@@ -61,6 +61,11 @@ header {
   object: fit;
 }
 
+.center {
+  display: flex;
+  justify-content: center;
+}
+
 .footer-center {
   color: white;
   font-weight: bold;
